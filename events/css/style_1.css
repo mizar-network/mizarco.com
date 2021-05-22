@@ -26,3 +26,8 @@ text-align: left;
 .nav-color-my {
 	color: #fff !important;
 }
+
+.menu_bg {
+	background-color: #000;
+	z-index: 100;
+}
