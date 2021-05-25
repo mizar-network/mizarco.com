@@ -99,11 +99,11 @@ h1 {color: #53dff6}
 	width: 30%;
     float: left;
     height: 100%;
-    margin-top: 20%;
 }
 
 .about_c img {
-	margin: 0 10% 10% 10%;
+	width: 400px;
+	margin: 30% 10% 10% 10%;
 }
 
 .about_r {
@@ -136,6 +136,7 @@ h1 {color: #53dff6}
 
 .one {
 	color: #f6c148;
+	width: 400px;
 	text-align: center;
 }
 
