@@ -131,7 +131,7 @@ h1 {color: #53dff6}
 }
 
 .about_c img {
-	width: 700px;
+	width: 100%;
 
 }
 
@@ -174,7 +174,7 @@ h1 {color: #53dff6}
 	text-align: center;
 }
 
-@media (max-width: 600px){.about_c{width: 100%;} 
+@media (max-width: 600px){.about_c{} 
 .img_mob_1 {display: none}
 .img_mob {display: block;width: 100%;margin: 20% 10% 10% 10%;} 
 .about_l {width: 100%; float: none; margin-top: 90px; height: 30%} .about_l h1 {font-size: 24px;} .about_r {width: 100%; height: 30%; float: none; margin-top: 70px} .about_r h1 {font-size: 24px;margin: 5px;} .fix_l{margin: 20px auto;} .fix_r{margin: 20px auto;}}
