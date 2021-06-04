@@ -240,6 +240,11 @@ h1 {color: #53dff6}
 	text-decoration: none;
 }
 
+.work_one p{
+	font-size: 16px;
+	text-align: justify;
+}
+
 @media only screen and (max-width: 768px) {
 .about--options {height: 200px;}
 .mob {font-size: 14px;}
