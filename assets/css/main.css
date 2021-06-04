@@ -253,6 +253,9 @@ h1 {color: #53dff6}
 .about--options>a:nth-child(2) {position: absolute;height: 100px;width: 150px;margin-left: 160px;margin-top: 120px;}
 .about--options>a:nth-child(3) {position: absolute;height: 100px;width: 150px;margin-left: 160px;float: right;}
 }
+.qr {
+	 	display: none;
+	 }
 
 @media (max-width: 600px){
 	.about_c {
@@ -283,7 +286,19 @@ h1 {color: #53dff6}
 	 .fix_r{
 	 	margin: 20px auto;
 	 	}
-}
+	 .work_one {
+	 	width: 100%;
+	 }
+	 .work_one i {
+	 	font-size: 13px;
+	 }
+	 .qr {
+	 	display: block;
+	 }
 
+	 .qr_m{
+	 	display: none;
+	 }
+}
 
 
