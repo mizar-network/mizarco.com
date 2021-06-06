@@ -424,5 +424,5 @@ background: linear-gradient(90deg, rgba(12,12,12,1) 0%, rgba(12,12,12,1) 35%, rg
 }
 
 @media (max-width: 600px){
-	.card {width: 150px;height: 170px;}
+	.card {width: 130px;height: 170px;}
 }
