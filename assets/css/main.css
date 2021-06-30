@@ -267,7 +267,8 @@ h1 {color: #53dff6}
 			}
 	.img_mob {
 				display: block;
-				width: 300px;
+				width: 320px;
+				height: 600px;
 				margin: 20% 0% 0% 0%;
 			} 
 	.about_l {
