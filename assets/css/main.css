@@ -266,8 +266,7 @@ h1 {color: #53dff6}
 				display: none
 			}
 	.img_mob {
-				display: block;
-				width: 100%;
+				display: block;width: 100%;
 				margin: 20% 0% 0% 0%;
 			} 
 	.about_l {
@@ -343,6 +342,8 @@ h1 {color: #53dff6}
 
 .front,
 .back {
+  width: 100%;
+  height: 100%;
   position: absolute;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -383,7 +384,8 @@ background: linear-gradient(90deg, rgba(12,12,12,1) 0%, rgba(12,12,12,1) 35%, rg
 }
 
 .front .contact {
-  height: 100px;
+  height: 120px;
+  width: 120px;
   border: 1px solid #81621a;
   border-radius: 50%;
   display: inline-block;
@@ -422,5 +424,5 @@ background: linear-gradient(90deg, rgba(12,12,12,1) 0%, rgba(12,12,12,1) 35%, rg
 }
 
 @media (max-width: 600px){
-	.card {width: 110px;height: 170px;}
+	.card {width: 130px;height: 170px;}
 }
